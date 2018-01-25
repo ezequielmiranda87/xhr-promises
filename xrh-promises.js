@@ -1,4 +1,4 @@
-//https://toddmotto.com/writing-a-standalone-ajax-xhr-javascript-micro-library/
+
 
 var httpRequest = (function(){
 
